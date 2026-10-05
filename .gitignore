@@ -1,0 +1,15 @@
+# Исключаем тяжелый CSV-файл с сырыми данными (превышает 100 МБ)
+*.csv
+data/qcew_raw/
+
+# Исключаем временные файлы Windows и редакторов
+thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Исключаем кэш и временные файлы Power BI / Office
+*.tmp
+~$*.docx
+~$*.xlsx
