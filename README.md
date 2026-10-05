@@ -29,7 +29,7 @@
 
 Проект строго следует методологии **Kimball Star Schema**:
 
-![Схема данных Star Schema](screenshots/03_star_schema_model.png)
+![Схема данных Star Schema](SCREENSHOTS/03_star_schema_model.png)
 
 ### Структура модели:
 * **`Fact_Employment_Wages`**: Таблица фактов с ключевыми показателями (`Average_Monthly_Employment`, `Average_Weekly_Wages`, `Total_Wages`).
