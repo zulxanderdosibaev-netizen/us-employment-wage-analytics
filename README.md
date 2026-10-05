@@ -10,7 +10,7 @@
 
 | 1. Executive Overview | 2. Industry Deep Dive | 3. Star Schema DWH |
 | :---: | :---: | :---: |
-| <img src="SCREENSHOTS/01_overview_dashboard.png" width="280"> | <img src="SCREENSHOTS/02_industry_deep_dive.png" width="280"> | <img src="SCREENSHOTS/03_star_schema_model.png" width="280"> |
+| <img src="SCREENSHOTS/01_overview_dashboard.png" width="280"> | <img src="SCREENSHOTS/02_deep_dive_dashboard.png" width="280"> | <img src="SCREENSHOTS/03_star_schema_model.png" width="280"> |
 
 ---
 
