@@ -28,8 +28,8 @@
 ## 📁 Структура Репозитория
 
 ```text
-├── DATA/          # Raw datasets & NAICS lookup tables
-├── POWER BI/      # Production .pbix report file
-├── SCREENSHOTS/   # Dashboard screenshots & ERD diagram
-├── SQL/           # DWH creation, Views, ETL procedure scripts
-└── README.md      # Technical Documentation
+├── DATA/          # Исходные датасеты и справочники отраслей NAICS
+├── POWER BI/      # Рабочий файл отчета Power BI (.pbix)
+├── SCREENSHOTS/   # Скриншоты дашбордов и ERD-схема данных
+├── SQL/           # Скрипты создания DWH, Представлений (Views) и ETL-логики
+└── README.md      # Техническая документация проекта
