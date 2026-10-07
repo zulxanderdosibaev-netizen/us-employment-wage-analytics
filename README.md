@@ -1,12 +1,11 @@
-# 📊 US Employment & Wage Analytics DWH (BLS QCEW 2023–2025)
+# 📊 Анализ рынка труда и заработных плат в США (DWH & Power BI)
 
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
 [![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/dax/)
 
 ---
-
-## 📸 Visual Showcase (Витрина проекта)
+## 📸 Витрина проекта (Visual Showcase)
 
 | 1. Executive Overview | 2. Industry Deep Dive | 3. Star Schema DWH |
 | :---: | :---: | :---: |
@@ -14,7 +13,7 @@
 
 ---
 
-## 🛠️ Data Analytical, Engineering Logic & Key Insights
+## 🛠️ Аналитическая логика, Инженерия данных и Ключевые результаты
 
 | # | Задача / Проблема в данных (Data Problem) | Техническое решение (Code & Method) | Аналитический результат & Инсайт (Data Insight) |
 |---|---|---|---|
