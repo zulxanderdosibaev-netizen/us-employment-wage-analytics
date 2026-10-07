@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ Data Engineering, Analytical Logic & Key Insights
+## 🛠️ Data Analytical, Engineering Logic & Key Insights
 
 | # | Задача / Проблема в данных (Data Problem) | Техническое решение (Code & Method) | Аналитический результат & Инсайт (Data Insight) |
 |---|---|---|---|
