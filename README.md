@@ -23,6 +23,12 @@
 | **4** | **Сложность локализации аномалий и трендов**<br>Анализ аномальных просадок по найму и росту зарплат в сырых таблицах требовал много времени и ручных манипуляций. | **UX/UI & Interactive Cross-Filtering:**<br>Спроектирован 2-страничный отчет (1280x720) с цветовой иерархией, модульной сеткой и условным форматированием. | **Мгновенный поиск аномалий:** Позволяет в 2 клика подсвечивать округа и кварталы с нетипичными отклонениями показателей. |
 ---
 
+## 🌐 Источник данных (Data Source)
+
+Данные за 2023–2025 гг. получены из официального реестра правительственных данных США (**U.S. Bureau of Labor Statistics**):
+* **Источник:** [Data.gov — BLS Quarterly Census of Employment and Wages (QCEW)](https://catalog.data.gov/dataset/quarterly-census-of-employment-and-wages-qcew?from_hint=eyJxIjoiQnVyZWF1IG9mIExhYm9yIFN0YXRpc3RpY3MgKEJMUykgXHUyMDE0IEVtcGxveW1lbnQgJiBXYWdlcyAoUUNFVykiLCJzb3J0IjoicmVsZXZhbmNlIn0%3D)
+
+
 ## 📁 Структура Репозитория
 
 ```text
