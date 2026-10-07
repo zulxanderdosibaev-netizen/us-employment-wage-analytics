@@ -1,4 +1,4 @@
-# 📊 Анализ рынка труда и заработных плат в США (DWH & Power BI)
+# 📊 Анализ рынка труда и заработных плат в США 2023-2025.гг (DWH & Power BI)
 
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
